@@ -74,7 +74,7 @@ def graph(lambd, rcs):
 #Начальные параметры
 
 n = 11 #Номер варианта
-N = 100  #Число точек на графике
+N = 300  #Число точек на графике
 
 #Основная часть программы
 url = 'https://jenyay.net/uploads/Student/Modelling/task_02.xml'
